@@ -1,0 +1,113 @@
+# Claude Design-Skill Registry — Source URLs
+# Audited: 2026-05-11T00:53:02Z
+# Branch: claude/design-skill-audit-FW4TF
+# Format: <url>  # TYPE: DECISION
+
+# ── OFFICIAL ANTHROPIC ──────────────────────────────────────────────────────
+
+https://github.com/anthropics/claude-code/blob/main/plugins/frontend-design/skills/frontend-design/SKILL.md  # GITHUB_BLOB: INSTALL_NOW
+https://github.com/anthropics/claude-code/tree/main/plugins/frontend-design  # GITHUB_TREE: REFERENCE_ONLY
+https://github.com/anthropics/claude-code/blob/main/plugins/plugin-dev/skills/skill-development/SKILL.md  # GITHUB_BLOB: MANUAL_REVIEW (637 lines)
+https://github.com/anthropics/skills  # GITHUB_REPO: REFERENCE_ONLY (mine individual skills)
+https://github.com/anthropics/skills/blob/main/skills/mcp-builder/SKILL.md  # GITHUB_BLOB: MANUAL_REVIEW (236 lines, license unknown)
+
+# ── OFFICIAL ANTHROPIC (from skills repo) ───────────────────────────────────
+# NOTE: skills/brand-guidelines and skills/canvas-design derived from repo inspection
+# https://github.com/anthropics/skills/blob/main/skills/brand-guidelines/SKILL.md  # GITHUB_BLOB: INSTALL_NOW
+# https://github.com/anthropics/skills/blob/main/skills/canvas-design/SKILL.md  # GITHUB_BLOB: INSTALL_NOW
+
+# ── INSTALL_OPTIONAL (MIT-licensed, verified) ───────────────────────────────
+
+https://github.com/affaan-m/everything-claude-code/blob/main/skills/remotion-video-creation/SKILL.md  # GITHUB_BLOB: INSTALL_OPTIONAL
+https://github.com/kylezantos/design-motion-principles  # GITHUB_REPO: INSTALL_OPTIONAL (SKILL.md at skills/design-motion-principles/)
+https://github.com/Dammyjay93/interface-design  # GITHUB_REPO: INSTALL_OPTIONAL (SKILL.md at .claude/skills/interface-design/)
+https://github.com/addyosmani/web-quality-skills  # GITHUB_REPO: INSTALL_OPTIONAL (accessibility skill)
+https://github.com/Leonxlnx/taste-skill  # GITHUB_REPO: INSTALL_OPTIONAL (SKILL.md at skills/taste-skill/)
+https://github.com/rampstackco/claude-skills  # GITHUB_REPO: INSTALL_OPTIONAL (mine creative-direction, design-system)
+
+# ── MANUAL REVIEW (credentials/MCP/browser/large/license-unknown) ───────────
+
+https://www.firecrawl.dev/agent-onboarding/SKILL.md  # DIRECT_SKILL_MD: MANUAL_REVIEW (403 Forbidden)
+https://claude.com/plugins/firecrawl  # CLAUDE_PLUGIN_PAGE: MANUAL_REVIEW (requires Claude account)
+https://claude.com/plugins/skill-creator  # CLAUDE_PLUGIN_PAGE: MANUAL_REVIEW (requires Claude account)
+https://github.com/accesslint/claude-marketplace  # GITHUB_REPO: MANUAL_REVIEW (requires MCP + browser auto-launch)
+https://github.com/figma/mcp-server-guide  # GITHUB_REPO: MANUAL_REVIEW (MCP server, requires Figma account)
+https://mcpservers.org/claude-skills/figma/create-design-system-rules  # MCP_MARKET_PAGE: MANUAL_REVIEW
+
+# ── REFERENCE_ONLY ──────────────────────────────────────────────────────────
+
+# Marketplace and index pages
+https://skills.sh  # INDEX_ONLY: REFERENCE_ONLY (403, marketplace index)
+https://skills.sh/anthropics/skills/frontend-design  # SKILLS_SH_PAGE: REFERENCE_ONLY (403)
+https://skills.sh/obra/superpowers  # SKILLS_SH_PAGE: REFERENCE_ONLY (403)
+https://skills.sh/vercel-labs/agent-skills/web-design-guidelines  # SKILLS_SH_PAGE: REFERENCE_ONLY (403)
+https://skills.sh/vercel-labs/agent-skills/react-best-practices  # SKILLS_SH_PAGE: REFERENCE_ONLY (403)
+https://skills.sh/vercel-labs/agent-skills/composition-patterns  # SKILLS_SH_PAGE: REFERENCE_ONLY (403)
+https://skills.sh/anthropics/skills/pdf  # SKILLS_SH_PAGE: REFERENCE_ONLY (403)
+https://skills.sh/anthropics/skills/webapp-testing  # SKILLS_SH_PAGE: REFERENCE_ONLY (403)
+https://skills.sh/anthropics/skills/skill-creator  # SKILLS_SH_PAGE: REFERENCE_ONLY (403)
+https://skills.sh/trailofbits/skills  # SKILLS_SH_PAGE: REFERENCE_ONLY (403)
+https://skills.sh/remotion-dev/skills/remotion-best-practices  # SKILLS_SH_PAGE: REFERENCE_ONLY (403)
+https://skills.sh/coreyhaines31/marketingskills  # SKILLS_SH_PAGE: REFERENCE_ONLY/SKIP (403)
+https://claudemarketplaces.com  # INDEX_ONLY: REFERENCE_ONLY
+https://mcpservers.org/agent-skills/anthropic/brand-guidelines  # MCP_MARKET_PAGE: REFERENCE_ONLY
+https://mcpservers.org/agent-skills/remotion/remotion-best-practices  # MCP_MARKET_PAGE: REFERENCE_ONLY
+https://claude-plugins.dev/skills/design-tokens  # THIRD_PARTY_MARKETPLACE: REFERENCE_ONLY
+https://claude-plugins.dev/skills/tailwind-styling  # THIRD_PARTY_MARKETPLACE: REFERENCE_ONLY
+https://claude-plugins.dev/skills/visual-regression  # THIRD_PARTY_MARKETPLACE: REFERENCE_ONLY
+https://mcp-market.vercel.app/skills/design-system-architect  # MCP_MARKET_PAGE: REFERENCE_ONLY
+https://claudecodeskills.wayjet.io/skills/ui-styling  # THIRD_PARTY_MARKETPLACE: REFERENCE_ONLY
+https://skillsllm.com/skill/rampstackco-claude-skills  # THIRD_PARTY_MARKETPLACE: REFERENCE_ONLY
+
+# Large packs (mine individual skills, do not bulk install)
+https://github.com/partme-ai/full-stack-skills.git  # GITHUB_REPO: REFERENCE_ONLY (421+ skills pack)
+https://github.com/partme-ai/full-stack-skills/blob/main/README_EN.md  # GITHUB_BLOB: REFERENCE_ONLY
+https://github.com/wilwaldon/Claude-Code-Frontend-Design-Toolkit  # GITHUB_REPO: REFERENCE_ONLY (curated list)
+https://github.com/Jeffallan/claude-skills  # GITHUB_REPO: REFERENCE_ONLY (66 skills, mostly dev)
+https://github.com/wondelai/skills  # GITHUB_REPO: REFERENCE_ONLY (business/UX focus)
+
+# Awesome lists (discovery/reference only)
+https://github.com/ComposioHQ/awesome-claude-skills  # GITHUB_REPO: REFERENCE_ONLY (awesome list)
+https://github.com/rampstackco/awesome-claude-skills  # GITHUB_REPO: REFERENCE_ONLY (awesome list)
+https://github.com/hesreallyhim/awesome-claude-code  # GITHUB_REPO: REFERENCE_ONLY (awesome list, update in progress)
+https://github.com/travisvn/awesome-claude-skills  # GITHUB_REPO: REFERENCE_ONLY (awesome list)
+
+# Guides and tools (not skills)
+https://github.com/Cranot/claude-code-guide  # GITHUB_REPO: REFERENCE_ONLY (CLI guide, auto-updated)
+https://github.com/OpenCoworkAI/open-codesign  # GITHUB_REPO: REFERENCE_ONLY (design app alternative, MIT)
+https://github.com/garrytan/gstack  # GITHUB_REPO: REFERENCE_ONLY (YC CEO dev toolkit)
+https://github.com/remotion-dev/skills  # GITHUB_REPO: REFERENCE_ONLY (internal package, no docs)
+https://github.com/claudekit/frontend-design-pro-demo  # GITHUB_REPO: REFERENCE_ONLY (demo app, 11 aesthetics)
+https://github.com/blencorp/claude-code-kit  # GITHUB_REPO: REFERENCE_ONLY (unknown scope)
+https://github.com/freshtechbro/claudedesignskills  # GITHUB_REPO: REFERENCE_ONLY (unverified)
+
+# ── SKIP (404, profiles, not relevant, or unrelated) ─────────────────────────
+
+https://github.com/coreyhaines31/marketingskills  # GITHUB_REPO: SKIP (404 Not Found)
+https://github.com/bencium/bencium-claude-code-design-skill  # GITHUB_REPO: SKIP (404 Not Found)
+https://github.com/nextlevelbuilder/ui-ux-pro-max-skill  # GITHUB_REPO: SKIP (404 Not Found)
+https://github.com/rstackjs/agent-skills  # GITHUB_REPO: SKIP (Rstack ecosystem only)
+https://github.com/obra/superpowers  # GITHUB_REPO: SKIP (general agentic framework, not Claude skills)
+https://github.com/trailofbits/skills  # GITHUB_REPO: SKIP (security focus, not design)
+https://github.com/ferdinandobons/startup-skill  # GITHUB_REPO: SKIP (business validation, not design)
+https://github.com/CloudAI-X/threejs-skills  # GITHUB_REPO: SKIP (no SKILL.md found, no license)
+https://github.com/yusufkaraaslan/Skill_Seekers  # GITHUB_REPO: SKIP (not design-relevant)
+https://gist.github.com/liskl/269ae33835ab4bfdd6140f0beb909873  # GIST: SKIP (not accessible)
+
+# GitHub profiles/orgs (no relevant skills found)
+https://github.com/openweb-org  # GITHUB_PROFILE_OR_ORG: SKIP
+https://github.com/sanjay3290  # GITHUB_PROFILE_OR_ORG: SKIP
+https://github.com/OthmanAdi  # GITHUB_PROFILE_OR_ORG: SKIP
+https://github.com/yvgude  # GITHUB_PROFILE_OR_ORG: SKIP
+https://github.com/lackeyjb  # GITHUB_PROFILE_OR_ORG: SKIP
+https://github.com/septimlabs-code  # GITHUB_PROFILE_OR_ORG: SKIP
+https://github.com/coffeefuelbump  # GITHUB_PROFILE_OR_ORG: SKIP
+https://github.com/Anjos2  # GITHUB_PROFILE_OR_ORG: SKIP
+https://github.com/chrisvoncsefalvay  # GITHUB_PROFILE_OR_ORG: SKIP
+https://github.com/jthack  # GITHUB_PROFILE_OR_ORG: SKIP
+https://github.com/LewisLiu007  # GITHUB_PROFILE_OR_ORG: SKIP
+https://github.com/avelikiy  # GITHUB_PROFILE_OR_ORG: SKIP
+https://github.com/conorluddy  # GITHUB_PROFILE_OR_ORG: SKIP
+https://github.com/PleasePrompto  # GITHUB_PROFILE_OR_ORG: SKIP
+https://github.com/wholiver  # GITHUB_PROFILE_OR_ORG: SKIP
+https://github.com/glitternetwork/pinme  # GITHUB_PROFILE_OR_ORG: SKIP

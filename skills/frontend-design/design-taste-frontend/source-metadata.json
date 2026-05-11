@@ -1,0 +1,22 @@
+{
+  "skill_name": "design-taste-frontend",
+  "source_url": "https://github.com/Leonxlnx/taste-skill/blob/main/skills/taste-skill/SKILL.md",
+  "raw_url": "https://raw.githubusercontent.com/Leonxlnx/taste-skill/main/skills/taste-skill/SKILL.md",
+  "source_type": "GITHUB_BLOB",
+  "source_repo": "Leonxlnx/taste-skill",
+  "source_commit": "c8075169cd63d1430bbf492dd4ddd478ea9fa4da",
+  "source_path": "skills/taste-skill/SKILL.md",
+  "added_at_utc": "2026-05-11T00:53:02Z",
+  "design_bucket": "frontend-design",
+  "secondary_buckets": ["tailwind-styling", "react-best-practices"],
+  "trust_tier": "COMMUNITY_MIT",
+  "license_status": "VERIFIED_COMPATIBLE",
+  "score": 82,
+  "decision": "INSTALL_OPTIONAL",
+  "risk_notes": [],
+  "token_notes": ["226 lines — moderate; parameterized design variance (8/6/4); enforces RSC safety and Tailwind version guards; project-local only"],
+  "copy_recommendation": "COPY_ALLOWED",
+  "manual_review_required": false,
+  "recommended_install_target": "project-local",
+  "rollback_action": "rm -rf skills/frontend-design/design-taste-frontend/"
+}
