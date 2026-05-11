@@ -1,13 +1,24 @@
 # Claude Design-Skill Registry
 > Audited: 2026-05-11T00:53:02Z · Branch: `claude/design-skill-audit-FW4TF` · Repo: `eyeszik/Claude-Design-Skills`
 
-## INSTALL_NOW (Score 85–100)
+## INSTALL_NOW — External Sources (Score 85–100)
 
 | Skill | Bucket | Score | License | Lines | Raw URL | Trust | Copy |
 |-------|--------|-------|---------|-------|---------|-------|------|
 | frontend-design | frontend-design | 92 | UNKNOWN | 41 | [raw](https://raw.githubusercontent.com/anthropics/claude-code/main/plugins/frontend-design/skills/frontend-design/SKILL.md) | OFFICIAL_ANTHROPIC | LINK_ONLY |
-| brand-guidelines | brand-guidelines | 88 | UNKNOWN | 73 | [raw](https://raw.githubusercontent.com/anthropics/skills/main/skills/brand-guidelines/SKILL.md) | OFFICIAL_ANTHROPIC | LINK_ONLY |
-| canvas-design | frontend-design | 85 | UNKNOWN | 129 | [raw](https://raw.githubusercontent.com/anthropics/skills/main/skills/canvas-design/SKILL.md) | OFFICIAL_ANTHROPIC | LINK_ONLY |
+| brand-guidelines | brand-guidelines | 88 | Apache 2.0 ✓ | 73 | [raw](https://raw.githubusercontent.com/anthropics/skills/main/skills/brand-guidelines/SKILL.md) | OFFICIAL_ANTHROPIC | COPY_ALLOWED |
+| canvas-design | frontend-design | 85 | Apache 2.0 ✓ | 129 | [raw](https://raw.githubusercontent.com/anthropics/skills/main/skills/canvas-design/SKILL.md) | OFFICIAL_ANTHROPIC | COPY_ALLOWED |
+
+## INSTALL_NOW — Custom Built (Score 84–92)
+
+| Skill | Bucket | Score | Lines | Local Path | Copy |
+|-------|--------|-------|-------|------------|------|
+| premium-ui-critique | frontend-design | 90 | 86 | `skills/frontend-design/premium-ui-critique/` | COPY_ALLOWED |
+| landing-page-design | landing-page-design | 88 | 82 | `skills/frontend-design/landing-page-design/` | COPY_ALLOWED |
+| accessibility-quick-audit | accessibility-review | 87 | ~110 | `skills/accessibility/accessibility-quick-audit/` | COPY_ALLOWED |
+| figma-to-implementation | figma-workflows | 86 | ~104 | `skills/figma-workflows/figma-to-implementation/` | COPY_ALLOWED |
+| saas-dashboard-review | frontend-design | 85 | ~127 | `skills/frontend-design/saas-dashboard-review/` | COPY_ALLOWED |
+| design-token-extractor | design-systems | 84 | ~80 | `skills/design-tokens/design-token-extractor/` | COPY_ALLOWED |
 
 ## INSTALL_OPTIONAL (Score 70–84)
 

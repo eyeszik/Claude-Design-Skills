@@ -5,13 +5,29 @@ All raw GitHub URLs for direct access to SKILL.md files. Use these in Claude, Cl
 
 ---
 
-## INSTALL_NOW — Official Anthropic (LINK_ONLY — license unverified; install via skills platform)
+## INSTALL_NOW — Official Anthropic
 
-**frontend-design** — https://raw.githubusercontent.com/anthropics/claude-code/main/plugins/frontend-design/skills/frontend-design/SKILL.md
+**frontend-design** (LINK_ONLY — no license file) — https://raw.githubusercontent.com/anthropics/claude-code/main/plugins/frontend-design/skills/frontend-design/SKILL.md
 
-**brand-guidelines** — https://raw.githubusercontent.com/anthropics/skills/main/skills/brand-guidelines/SKILL.md
+**brand-guidelines** (Apache 2.0 ✓ — COPY_ALLOWED) — https://raw.githubusercontent.com/anthropics/skills/main/skills/brand-guidelines/SKILL.md
 
-**canvas-design** — https://raw.githubusercontent.com/anthropics/skills/main/skills/canvas-design/SKILL.md
+**canvas-design** (Apache 2.0 ✓ — COPY_ALLOWED) — https://raw.githubusercontent.com/anthropics/skills/main/skills/canvas-design/SKILL.md
+
+---
+
+## INSTALL_NOW — Custom Built (OWNED — COPY_ALLOWED)
+
+**premium-ui-critique** (holistic UI taste review, 7 dimensions) — https://raw.githubusercontent.com/eyeszik/Claude-Design-Skills/claude/design-skill-audit-FW4TF/skills/frontend-design/premium-ui-critique/SKILL.md
+
+**landing-page-design** (section-by-section page architect) — https://raw.githubusercontent.com/eyeszik/Claude-Design-Skills/claude/design-skill-audit-FW4TF/skills/frontend-design/landing-page-design/SKILL.md
+
+**accessibility-quick-audit** (12-point WCAG 2.2 fast checklist) — https://raw.githubusercontent.com/eyeszik/Claude-Design-Skills/claude/design-skill-audit-FW4TF/skills/accessibility/accessibility-quick-audit/SKILL.md
+
+**figma-to-implementation** (Figma → production code, 5-step workflow) — https://raw.githubusercontent.com/eyeszik/Claude-Design-Skills/claude/design-skill-audit-FW4TF/skills/figma-workflows/figma-to-implementation/SKILL.md
+
+**saas-dashboard-review** (data density, nav, hierarchy, functional design) — https://raw.githubusercontent.com/eyeszik/Claude-Design-Skills/claude/design-skill-audit-FW4TF/skills/frontend-design/saas-dashboard-review/SKILL.md
+
+**design-token-extractor** (primitive → semantic → component token hierarchy) — https://raw.githubusercontent.com/eyeszik/Claude-Design-Skills/claude/design-skill-audit-FW4TF/skills/design-tokens/design-token-extractor/SKILL.md
 
 ---
 
