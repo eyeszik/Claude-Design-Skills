@@ -1,0 +1,22 @@
+{
+  "skill_name": "frontend-design",
+  "source_url": "https://github.com/anthropics/claude-code/blob/main/plugins/frontend-design/skills/frontend-design/SKILL.md",
+  "raw_url": "https://raw.githubusercontent.com/anthropics/claude-code/main/plugins/frontend-design/skills/frontend-design/SKILL.md",
+  "source_type": "GITHUB_BLOB",
+  "source_repo": "anthropics/claude-code",
+  "source_commit": "831608a360511febd4b10c77d4d03b47afda2f5b",
+  "source_path": "plugins/frontend-design/skills/frontend-design/SKILL.md",
+  "added_at_utc": "2026-05-11T00:53:02Z",
+  "design_bucket": "frontend-design",
+  "secondary_buckets": ["ui-styling", "composition-patterns"],
+  "trust_tier": "OFFICIAL_ANTHROPIC",
+  "license_status": "UNKNOWN",
+  "score": 92,
+  "decision": "INSTALL_NOW",
+  "risk_notes": ["License file referenced as LICENSE.txt but content not accessible; treat as link-only until verified"],
+  "token_notes": ["41 lines — excellent; no example bloat"],
+  "copy_recommendation": "LINK_ONLY",
+  "manual_review_required": false,
+  "recommended_install_target": "project-local",
+  "rollback_action": "rm -rf skills/frontend-design/frontend-design/"
+}

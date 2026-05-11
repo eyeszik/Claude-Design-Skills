@@ -1,0 +1,22 @@
+{
+  "skill_name": "skill-development",
+  "source_url": "https://github.com/anthropics/claude-code/blob/main/plugins/plugin-dev/skills/skill-development/SKILL.md",
+  "raw_url": "https://raw.githubusercontent.com/anthropics/claude-code/main/plugins/plugin-dev/skills/skill-development/SKILL.md",
+  "source_type": "GITHUB_BLOB",
+  "source_repo": "anthropics/claude-code",
+  "source_commit": "831608a360511febd4b10c77d4d03b47afda2f5b",
+  "source_path": "plugins/plugin-dev/skills/skill-development/SKILL.md",
+  "added_at_utc": "2026-05-11T00:53:02Z",
+  "design_bucket": "skill-development",
+  "secondary_buckets": [],
+  "trust_tier": "OFFICIAL_ANTHROPIC",
+  "license_status": "UNKNOWN",
+  "score": 65,
+  "decision": "MANUAL_REVIEW",
+  "risk_notes": ["637 lines — 7,900 token overhead; license unknown; do not install globally"],
+  "token_notes": ["637 lines — too large for always-loaded; use link-only reference only"],
+  "copy_recommendation": "LINK_ONLY",
+  "manual_review_required": true,
+  "recommended_install_target": "link-only",
+  "rollback_action": "rm -rf skills/skill-development/skill-development/"
+}

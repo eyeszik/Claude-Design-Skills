@@ -1,0 +1,22 @@
+{
+  "skill_name": "canvas-design",
+  "source_url": "https://github.com/anthropics/skills/blob/main/skills/canvas-design/SKILL.md",
+  "raw_url": "https://raw.githubusercontent.com/anthropics/skills/main/skills/canvas-design/SKILL.md",
+  "source_type": "GITHUB_BLOB",
+  "source_repo": "anthropics/skills",
+  "source_commit": "f458cee31a7577a47ba0c9a101976fa599385174",
+  "source_path": "skills/canvas-design/SKILL.md",
+  "added_at_utc": "2026-05-11T00:53:02Z",
+  "design_bucket": "frontend-design",
+  "secondary_buckets": ["creative-direction"],
+  "trust_tier": "OFFICIAL_ANTHROPIC",
+  "license_status": "UNKNOWN",
+  "score": 85,
+  "decision": "INSTALL_NOW",
+  "risk_notes": ["License file not accessible; LINK_ONLY until verified"],
+  "token_notes": ["129 lines — moderate; two-step visual philosophy workflow"],
+  "copy_recommendation": "LINK_ONLY",
+  "manual_review_required": false,
+  "recommended_install_target": "project-local",
+  "rollback_action": "rm -rf skills/frontend-design/canvas-design/"
+}
