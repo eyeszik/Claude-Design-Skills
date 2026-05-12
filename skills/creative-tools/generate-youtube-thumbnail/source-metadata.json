@@ -1,0 +1,26 @@
+{
+  "skill_name": "generate-youtube-thumbnail",
+  "source_url": "https://github.com/krusemediallc/arcads-claude-code/blob/main/skills/generate-youtube-thumbnail/SKILL.md",
+  "raw_url": "https://raw.githubusercontent.com/krusemediallc/arcads-claude-code/main/skills/generate-youtube-thumbnail/SKILL.md",
+  "source_type": "GITHUB_BLOB",
+  "source_repo": "krusemediallc/arcads-claude-code",
+  "source_commit": "b50ff8e5485c1ac801ff0c86ae4cdd159ddbd90f",
+  "source_path": "skills/generate-youtube-thumbnail/SKILL.md",
+  "added_at_utc": "2026-05-12T02:00:00Z",
+  "design_bucket": "creative-tools",
+  "secondary_buckets": ["marketing-design", "ai-image-generation"],
+  "trust_tier": "COMMUNITY_UNKNOWN_LICENSE",
+  "license_status": "UNKNOWN",
+  "score": 66,
+  "decision": "INSTALL_OPTIONAL",
+  "risk_notes": [
+    "No LICENSE file found anywhere in repo — cannot copy content; link-only",
+    "Depends on arcads-external-api skill for auth and configuration",
+    "Requires Arcads account with Nano Banana 2 endpoint access"
+  ],
+  "token_notes": ["184 lines — moderate; companion to arcads-external-api; load both together"],
+  "copy_recommendation": "LINK_ONLY",
+  "manual_review_required": false,
+  "recommended_install_target": "project-local",
+  "rollback_action": "rm -rf skills/creative-tools/generate-youtube-thumbnail/"
+}

@@ -20,10 +20,12 @@
 | saas-dashboard-review | frontend-design | 85 | ~127 | `skills/frontend-design/saas-dashboard-review/` | COPY_ALLOWED |
 | design-token-extractor | design-systems | 84 | ~80 | `skills/design-tokens/design-token-extractor/` | COPY_ALLOWED |
 
-## INSTALL_OPTIONAL (Score 70–84)
+## INSTALL_OPTIONAL — External (Score 66–84)
 
 | Skill | Bucket | Score | License | Lines | Raw URL | Trust | Copy |
 |-------|--------|-------|---------|-------|---------|-------|------|
+| arcads-external-api | creative-tools | 71 | UNKNOWN | 325 | [raw](https://raw.githubusercontent.com/krusemediallc/arcads-claude-code/main/skills/arcads-external-api/SKILL.md) | COMMUNITY_UNKNOWN | LINK_ONLY |
+| generate-youtube-thumbnail | creative-tools | 66 | UNKNOWN | 184 | [raw](https://raw.githubusercontent.com/krusemediallc/arcads-claude-code/main/skills/generate-youtube-thumbnail/SKILL.md) | COMMUNITY_UNKNOWN | LINK_ONLY |
 | design-taste-frontend | frontend-design | 82 | MIT ✓ | 226 | [raw](https://raw.githubusercontent.com/Leonxlnx/taste-skill/main/skills/taste-skill/SKILL.md) | COMMUNITY_MIT | COPY_ALLOWED |
 | interface-design | frontend-design | 79 | MIT ✓ | 391 | [raw](https://raw.githubusercontent.com/Dammyjay93/interface-design/main/.claude/skills/interface-design/SKILL.md) | COMMUNITY_MIT | COPY_ALLOWED |
 | design-motion-principles | motion-design | 78 | MIT ✓ | 203 | [raw](https://raw.githubusercontent.com/kylezantos/design-motion-principles/main/skills/design-motion-principles/SKILL.md) | COMMUNITY_MIT | COPY_ALLOWED |

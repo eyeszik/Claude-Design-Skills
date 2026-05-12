@@ -31,6 +31,14 @@ All raw GitHub URLs for direct access to SKILL.md files. Use these in Claude, Cl
 
 ---
 
+## INSTALL_OPTIONAL — Community (LINK_ONLY — no license; load from source)
+
+**arcads-external-api** (AI video/image generation via Arcads API — Sora 2, Veo 3.1, Kling, Nano Banana) — https://raw.githubusercontent.com/krusemediallc/arcads-claude-code/main/skills/arcads-external-api/SKILL.md
+
+**generate-youtube-thumbnail** (YouTube thumbnail batch workflow, Nano Banana 2; requires arcads-external-api) — https://raw.githubusercontent.com/krusemediallc/arcads-claude-code/main/skills/generate-youtube-thumbnail/SKILL.md
+
+---
+
 ## INSTALL_OPTIONAL — MIT-Licensed (COPY_ALLOWED — safe to copy to your project)
 
 **design-taste-frontend** (anti-slop frontend enforcer) — https://raw.githubusercontent.com/Leonxlnx/taste-skill/main/skills/taste-skill/SKILL.md
