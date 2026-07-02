@@ -1,0 +1,22 @@
+{
+  "skill_name": "design-skill-router",
+  "source_url": "https://github.com/eyeszik/Claude-Design-Skills/blob/main/skills/meta/design-skill-router/SKILL.md",
+  "raw_url": "https://raw.githubusercontent.com/eyeszik/Claude-Design-Skills/main/skills/meta/design-skill-router/SKILL.md",
+  "source_type": "CUSTOM_BUILT",
+  "source_repo": "eyeszik/Claude-Design-Skills",
+  "source_commit": "",
+  "source_path": "skills/meta/design-skill-router/SKILL.md",
+  "added_at_utc": "2026-05-12T03:00:00Z",
+  "design_bucket": "meta",
+  "secondary_buckets": ["frontend-design", "accessibility-review", "figma-workflows", "design-systems", "motion-design", "creative-tools", "marketing-design"],
+  "trust_tier": "CUSTOM",
+  "license_status": "OWNED",
+  "score": 97,
+  "decision": "INSTALL_NOW",
+  "risk_notes": ["Meta-skill — requires all 17 sub-skills to be installed or accessible via FETCH; FETCH skills require outbound HTTPS"],
+  "token_notes": ["~160 lines — self-contained router; sub-skills loaded on demand, not pre-loaded; net token cost at runtime = this file + one matched skill only"],
+  "copy_recommendation": "COPY_ALLOWED",
+  "manual_review_required": false,
+  "recommended_install_target": "project-local",
+  "rollback_action": "rm -rf skills/meta/design-skill-router/"
+}
